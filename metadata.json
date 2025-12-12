@@ -1,0 +1,5 @@
+{
+  "name": "Proactive Manufacturing Auditor",
+  "description": "A multi-modal AI tool for analyzing manufacturing machinery via video, sensor logs, and blueprints to detect anomalies and prescribe fixes.",
+  "requestFramePermissions": []
+}
